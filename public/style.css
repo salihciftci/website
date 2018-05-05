@@ -1,0 +1,41 @@
+body {
+	background-color: #232323;
+	color: white;
+	font-size: 9.5pt;
+	font-family: monaco;
+	line-height: 20px;
+	word-spacing: 0.5px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+@font-face {
+    font-family: monaco;
+    src: url(monaco.ttf);
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.user {
+	color: coral
+	  
+}
+
+.at {
+	color: lightgreen
+}
+
+.dir {
+	color: darkkhaki
+}
+
+.git {
+	color: cadetblue
+}
+
+.arrow {
+	color: chartreuse
+}
