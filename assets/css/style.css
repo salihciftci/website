@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Mukta:600");
+body {
+  background-color: #3a4652;
+  font-family: "Mukta", sans-serif;
+  padding: 10rem;
+}
+
+.card-bg {
+  background-color: #1e252d;
+  color: white;
+}
+
+.title {
+  font-size: 140%;
+}
+
+.about {
+  margin-top: 1rem;
+}
+
+.icons {
+  margin-top: 2rem;
+}
+
+.icons {
+  font-size: 100%;
+}
+
+.avatar {
+  margin-top: 2rem;
+}
+
+.border-white {
+  border-width: 2px !important;
+}
